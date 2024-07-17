@@ -1,2 +1,1 @@
-# monitoria-ml
-Monitoria Aprendizagem de Máquina I e II (Embraer)
+# Monitoria Aprendizagem de Máquina I e II (Embraer)
