@@ -1,4 +1,5 @@
 # Monitoria Aprendizagem de Máquina I e II (Embraer)
+<<<<<<< HEAD
 
 
 ## Utilizando Google Colab
@@ -28,3 +29,5 @@ Usar o Google Colab é a forma mais simples de executar os códigos em python.
 4. Para executar uma célula de código, mantenha o mouse em cima da célula e clique no botão que aparecer no canto superior esquerdo da célula, ou clique na célula e aperte _ctrl+enter_. Se houver algum resultado para ser mostrado na tela, ele será mostrado abaixo.
 
 ![Colab 4](./imagens/colab4.png)
+=======
+>>>>>>> 4c03ae20e6e9b97024ab7f35174775654a0575b1
