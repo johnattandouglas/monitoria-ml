@@ -39,14 +39,15 @@ Se houver algum resultado para ser mostrado na tela, ele será mostrado abaixo.
 ## Nota
 É recomendado fazer uma cópia no Google Drive para conseguir salvar as alterações nos arquivos. Isso é super fácil!
 
-Basta abrir o notebook no Colab e selecionar "Arquivo" > "Salvar uma cópia no Drive".
+Basta abrir o notebook no Colab e selecionar _Arquivo_ > _Salvar uma cópia no Drive_.
 
 Assim, você terá uma versão própria para editar à vontade.
 
 ![Colab 5](./imagens/colab5.png)
 
 
-Qualquer dúvida, estou a disposição!
+Qualquer dúvida, estou à disposição!
 
 Abraços,
-Johnattan
+
+[Johnattan](jdfv@cin.ufpe.br)
