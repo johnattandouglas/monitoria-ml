@@ -1,6 +1,6 @@
-# Monitoria Aprendizagem de Máquina I e II (Embraer)
+# Monitoria Aprendizagem de Máquina I (Embraer)
 
-Oi! Seja bem-vind@ ao nosso repositório da disciplina "Aprendizagem de Máquina"!
+Oi! Seja bem-vind@ ao nosso repositório da disciplina "Aprendizagem de Máquina I"!
 
 Aqui, você encontrará todo o material das atividades práticas.
 
