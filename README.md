@@ -1,21 +1,22 @@
 # Monitoria Aprendizagem de Máquina I e II (Embraer)
 
+Oi! Seja bem-vind@ ao nosso repositório da disciplina "Aprendizagem de Máquina"!
+Aqui, você encontrará todo o material das atividades práticas.
+Para essas atividades, vamos usar o Google Colab, uma plataforma simples de executar códigos em Python.
+O Colab vem com bibliotecas pré-instaladas e permite que a gente utilize GPUs gratuitamente!
 
 ## Utilizando Google Colab
 
-Usar o Google Colab é a forma mais simples de executar os códigos em python.
-
-1. Primeiro, entre em https://colab.research.google.com . Após o login, será mostrada a tela abaixo com os notebooks mais recentes que você abriu.
+1. Primeiro, entre em https://colab.research.google.com . Após o login, são exibidos os notebooks mais recentes que você abriu.
 
 ![Colab 1](./imagens/colab1.png)
 
-2. Clique na aba GitHub e insira o link do repositório https://github.com/johnattandouglas/monitoria-ml. Após isso, todos os notebooks no repositório ficarão visíveis, e você poderá abri-los em uma nova guia.
-
+2. Clique na aba GitHub e insira o link do repositório https://github.com/johnattandouglas/monitoria-ml. Após isso, todos os notebooks no repositório ficarão visíveis e você poderá abrí-los em uma nova guia.
 
 ![Colab 2](./imagens/colab2.png)
 
 
-3. Finalmente, com o notebook aberto, você poderá programar e executá-lo como quiser. Para garantir que todas as variáveis estarão configuradas, clique na aba _Ambiente de execução_ e clique em _Executar tudo_.
+3. Finalmente, com o notebook aberto, você poderá programar e executá-lo! Para garantir que todas as variáveis estarão configuradas, clique na aba _Ambiente de execução_ e clique em _Executar tudo_.
 
     Um notebook é composto por duas células base, uma célula _markdown_ e uma célula de código.
 
@@ -28,3 +29,8 @@ Usar o Google Colab é a forma mais simples de executar os códigos em python.
 4. Para executar uma célula de código, mantenha o mouse em cima da célula e clique no botão que aparecer no canto superior esquerdo da célula, ou clique na célula e aperte _ctrl+enter_. Se houver algum resultado para ser mostrado na tela, ele será mostrado abaixo.
 
 ![Colab 4](./imagens/colab4.png)
+
+## Nota
+É recomendado fazer uma cópia no Google Drive para conseguir salvar as alterações nos arquivos. Isso é super fácil! Basta abrir o notebook no Colab e selecionar "Arquivo" > "Salvar uma cópia no Drive". Assim, você terá uma versão própria para editar à vontade.
+
+![Colab 5](./imagens/colab5.png)
