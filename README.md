@@ -5,7 +5,7 @@ Oi! Seja bem-vind@ ao nosso repositório da disciplina "Aprendizagem de Máquina
 Aqui, você encontrará todo o material das atividades práticas.
 
 Para essas atividades, vamos usar o Google Colab, uma plataforma simples de executar códigos em Python.
-O Colab vem com bibliotecas pré-instaladas e permite que a gente utilize GPUs gratuitamente!
+O Colab vem com bibliotecas pré-instaladas e permite que a gente utilize GPUs do Google!
 
 ## Utilizando Google Colab
 
@@ -18,7 +18,9 @@ O Colab vem com bibliotecas pré-instaladas e permite que a gente utilize GPUs g
 ![Colab 2](./imagens/colab2.png)
 
 
-3. Finalmente, com o notebook aberto, você poderá programar e executá-lo! Para garantir que todas as variáveis estarão configuradas, clique na aba _Ambiente de execução_ e clique em _Executar tudo_.
+3. Finalmente, com o notebook aberto, você poderá programar e executá-lo!
+
+Para garantir que todas as variáveis estarão configuradas, clique na aba _Ambiente de execução_ e clique em _Executar tudo_.
 
     Um notebook é composto por duas células base, uma célula _markdown_ e uma célula de código.
 
@@ -28,11 +30,23 @@ O Colab vem com bibliotecas pré-instaladas e permite que a gente utilize GPUs g
 
 ![Colab 3](./imagens/colab3.png)
     
-4. Para executar uma célula de código, mantenha o mouse em cima da célula e clique no botão que aparecer no canto superior esquerdo da célula, ou clique na célula e aperte _ctrl+enter_. Se houver algum resultado para ser mostrado na tela, ele será mostrado abaixo.
+4. Para executar uma célula de código, mantenha o mouse em cima da célula e clique no botão que aparecer no canto superior esquerdo da célula, ou clique na célula e aperte _ctrl+enter_.
+
+Se houver algum resultado para ser mostrado na tela, ele será mostrado abaixo.
 
 ![Colab 4](./imagens/colab4.png)
 
 ## Nota
-É recomendado fazer uma cópia no Google Drive para conseguir salvar as alterações nos arquivos. Isso é super fácil! Basta abrir o notebook no Colab e selecionar "Arquivo" > "Salvar uma cópia no Drive". Assim, você terá uma versão própria para editar à vontade.
+É recomendado fazer uma cópia no Google Drive para conseguir salvar as alterações nos arquivos. Isso é super fácil!
+
+Basta abrir o notebook no Colab e selecionar "Arquivo" > "Salvar uma cópia no Drive".
+
+Assim, você terá uma versão própria para editar à vontade.
 
 ![Colab 5](./imagens/colab5.png)
+
+
+Qualquer dúvida, estou a disposição!
+
+Abraços,
+Johnattan
