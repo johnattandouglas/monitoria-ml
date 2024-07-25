@@ -39,14 +39,11 @@ Assim, você terá uma versão própria para editar à vontade.
 
 ## Executando Notebooks
 
-Os códigos são disponibilzidos no formato .ipynb,  que significa "IPython Notebook" (ou simplesmente "notebook"). Dessa forma, você pode executá-los em diversos ambientes que suportam esse formato, como Jupyter Notebook, Visual Studio Code, entre outros.
+Os códigos são disponibilizados no formato .ipynb,  que significa "IPython Notebook" (ou simplesmente "notebook"). Dessa forma, você pode executá-los em diversos ambientes que suportam esse formato, como Jupyter Notebook, Visual Studio Code, entre outros.
 
-Todas as bibliotecas e pacotes que são pré-requisitos para execução estão listados no arquivo _requirements.txt_ .
+Todas as bibliotecas que são pré-requisitos para execução estão listados no arquivo _requirements.txt_ . Para instalá-las de uma vez só, execute `pip install -r requirements.txt` no prompt de comando ou terminal da sua ferramenta.
 
-Para instalar os pacotes, execute o seguinte comando no prompt de comando ou terminal da sua ferramenta:
-
-`pip install -r requirements.txt`
-
+Para instalar uma biblioteca específica, execute `pip install [nome da biblioteca]`
 
 Qualquer dúvida, estou à disposição!
 
