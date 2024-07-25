@@ -46,6 +46,17 @@ Assim, você terá uma versão própria para editar à vontade.
 ![Colab 5](./imagens/colab5.png)
 
 
+## Executando Notebooks
+
+Os códigos são disponibilzidos no formato .ipynb,  que significa "IPython Notebook" (ou simplesmente "notebook"). Dessa forma, você pode executá-los em diversos ambientes que suportam esse formato, como Jupyter Notebook, Visual Studio Code, entre outros.
+
+Todas as bibliotecas e pacotes necessários estão listados no arquivo _requirements.txt_
+
+Para instalar os pacotes, execute o seguinte comando no prompt de comando ou terminal da sua ferramenta:
+
+`pip install -r requirements.txt`.
+
+
 Qualquer dúvida, estou à disposição!
 
 Abraços,
