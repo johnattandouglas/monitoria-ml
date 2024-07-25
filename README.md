@@ -19,20 +19,11 @@ O Colab vem com bibliotecas pré-instaladas e permite que a gente utilize GPUs d
 
 
 3. Finalmente, com o notebook aberto, você poderá programar e executá-lo!
-
-Para garantir que todas as variáveis estarão configuradas, clique na aba _Ambiente de execução_ e clique em _Executar tudo_.
-
-    Um notebook é composto por duas células base, uma célula _markdown_ e uma célula de código.
-
-    As células _markdown_ são células que contém texto. Além de texto, equações no formato LaTeX também podem ser inseridas.
-
-    Já nas células de código, você pode executar os trechos de código em python de forma isolada.
+Para garantir que todas as variáveis estarão configuradas, clique na aba _Ambiente de execução_ e clique em _Executar tudo_. Um notebook é composto por duas células base, uma célula _markdown_ e uma célula de código. As células _markdown_ são células que contém texto. Além de texto, equações no formato LaTeX também podem ser inseridas. Já nas células de código, você pode executar os trechos de código em python de forma isolada.
 
 ![Colab 3](./imagens/colab3.png)
     
-4. Para executar uma célula de código, mantenha o mouse em cima da célula e clique no botão que aparecer no canto superior esquerdo da célula, ou clique na célula e aperte _ctrl+enter_.
-
-Se houver algum resultado para ser mostrado na tela, ele será mostrado abaixo.
+4. Para executar uma célula de código, mantenha o mouse em cima da célula e clique no botão que aparecer no canto superior esquerdo da célula, ou clique na célula e aperte _ctrl+enter_. Se houver algum resultado para ser mostrado na tela, ele será mostrado abaixo.
 
 ![Colab 4](./imagens/colab4.png)
 
@@ -50,11 +41,11 @@ Assim, você terá uma versão própria para editar à vontade.
 
 Os códigos são disponibilzidos no formato .ipynb,  que significa "IPython Notebook" (ou simplesmente "notebook"). Dessa forma, você pode executá-los em diversos ambientes que suportam esse formato, como Jupyter Notebook, Visual Studio Code, entre outros.
 
-Todas as bibliotecas e pacotes necessários estão listados no arquivo _requirements.txt_
+Todas as bibliotecas e pacotes que são pré-requisitos para execução estão listados no arquivo _requirements.txt_ .
 
 Para instalar os pacotes, execute o seguinte comando no prompt de comando ou terminal da sua ferramenta:
 
-`pip install -r requirements.txt`.
+`pip install -r requirements.txt`
 
 
 Qualquer dúvida, estou à disposição!
